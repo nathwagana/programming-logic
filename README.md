@@ -2,7 +2,7 @@
 
 >[<img width="30" height="30" src="https://images.emojiterra.com/twitter/512px/1f1e7-1f1f7.png"></img>](#português)  [<img width="30" height="30" src="https://images.emojiterra.com/twitter/512px/1f1fa-1f1f8.png"></img>](#inglês) 
 
-<img width="400" height="400" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif"></img>
+<img width="350" height="350" src="https://c.tenor.com/4OXpPeBoqLAAAAAC/destruindo-computador-destroying-computer.gif"></img>
 
 
 <a name="português"></a>
